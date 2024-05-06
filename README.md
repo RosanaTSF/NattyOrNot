@@ -1,46 +1,27 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Olhe para isso 👀
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-2. **Portfólio de Projetos**: [Adicione uma descrição do portfólio aqui]
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
 ## 📒 Descrição
-Fiz dois projetos:
-1º Criei Fake Natty;
-2º Crie Meu Funko;
-3º Criei minha imagem em 3D.
-4º Criei uma Rede Social Fake.
-5º Criei um vídeo utilizando CapCut, Eleven Labs e ChatGPT.
+O projeto Fake Natty é uma demonstração de como várias tecnologias, incluindo Microsoft Copilot, Microsoft Designer e App 3D Models, podem ser utilizadas em conjunto para criar uma variedade de conteúdos criativos. No projeto, foram exploradas diferentes ferramentas para gerar um personagem de dorama surfista, um Funko Pop baseado em uma descrição pessoal, uma versão em desenho 3D de uma foto real e até mesmo uma rede social, com a ajuda do Copilot para gerar parte da apresentação.
 
 ## 🤖 Tecnologias Utilizadas
-Microsoft Copilot
-Microsoft Designer
-App 3D Models
-ChatGPT
+- Microsoft Copilot
+- Microsoft Designer
+- App 3D Models
+- ChatGPT
 
 ## 🧐 Processo de Criação
-No primeiro, pedi ao Copilot que criasse um personagem de Dorama, com uma prancha de surf.
-No segundo, através da Microsoft designer, descrevi como sou e do que eu gosto, e ele então gerou o funko.
-No terceiro, usei uma foto no aplicativo e ele gerou em forma de desenho.
-No quarto, criei a rede social com ajuda do Copilot.
+Para o desafio Fake Natty, o processo de criação envolveu várias etapas criativas e a utilização de diferentes tecnologias:
 
-## 🖼️ Imagens e Vídeos
+1. **Geração do Personagem de Dorama Surdista:**
+   - Utilização do Microsoft Copilot para gerar um personagem de dorama surfista com base em uma descrição.
 
-<div align="center">
-  <img src="https://github.com/RosanaTSF/NattyOrNot/assets/101351309/71aa86d6-eef9-4887-a852-90ba63d18c7f" alt="Descrição da Imagem 1" width="45%">
-  <img src="https://github.com/RosanaTSF/NattyOrNot/assets/101351309/a596b938-bedf-4e30-a722-f185ed27268e" alt="Descrição da Imagem 2" width="45%">
-</div>
-<div align="center">
-  <img src="https://github.com/RosanaTSF/NattyOrNot/assets/101351309/d3d37928-e3d2-4dcd-ba07-98199065bf92" alt="Descrição da Imagem 3" width="45%">
-  <img src="https://github.com/RosanaTSF/NattyOrNot/assets/101351309/0e896878-26c4-4719-830a-8c2538b2c662" alt="Descrição da Imagem 4" width="45%">
-</div>
+2. **Criação do Funko Pop Personalizado:**
+   - Utilização do Microsoft Designer para descrever características pessoais e preferências.
+   - Geração do Funko Pop com base nas informações fornecidas.
+
+3. **Criação do Desenho 3D a partir de uma Foto Real:**
+   - Utilização de um aplicativo de modelos 3D para criar uma versão em desenho 3D de uma foto real.
+
+4. **Desenvolvimento da Rede Social:**
+   - Utilização do Copilot para ajudar na criação de uma rede social.
+   - Utilização de comandos para gerar parte da apresentação do projeto.
+
+A colaboração da [Rosana TSF](https://github.com/RosanaTSF) contribuiu para melhorar o layout do README e exibir as imagens de forma proporcional.
