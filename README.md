@@ -1,3 +1,13 @@
+<div align="center">
+    <img src="./assets/fakenatty.JPEG" width="200" />
+    <img src="./assets/fakenatty2.JPEG" width="200" />
+    <img src="./assets/funko.JPEG" width="200" />
+    <img src="./assets/eu.JPEG" width="200" />
+    <img src="./assets/clone.JPEG" width="200" />
+    <img src="./assets/rede.JPEG" width="200" />
+    <img src="./assets/rede2.JPEG" width="200" />
+</div>
+
 ## 📒 Descrição
 O projeto Fake Natty é uma demonstração de como várias tecnologias, incluindo Microsoft Copilot, Microsoft Designer e App 3D Models, podem ser utilizadas em conjunto para criar uma variedade de conteúdos criativos. No projeto, foram exploradas diferentes ferramentas para gerar um personagem de dorama surfista, um Funko Pop baseado em uma descrição pessoal, uma versão em desenho 3D de uma foto real e até mesmo uma rede social, com a ajuda do Copilot para gerar parte da apresentação.
 
