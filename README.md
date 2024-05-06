@@ -1,9 +1,9 @@
 <div align="center">
+    <img src="./assets/eu.JPEG" width="200" />
+    <img src="./assets/clone.JPEG width="200" />
+    <img src="./assets/funko.JPEG" width="200" />
     <img src="./assets/fakenatty.JPEG" width="200" />
     <img src="./assets/fakenatty2.JPEG" width="200" />
-    <img src="./assets/funko.JPEG" width="200" />
-    <img src="./assets/eu.JPEG" width="200" />
-    <img src="./assets/clone.JPEG" width="200" />
     <img src="./assets/rede.JPEG" width="200" />
     <img src="./assets/rede2.JPEG" width="200" />
 </div>
@@ -34,4 +34,4 @@ Para o desafio Fake Natty, o processo de criação envolveu várias etapas criat
    - Utilização do Copilot para ajudar na criação de uma rede social.
    - Utilização de comandos para gerar parte da apresentação do projeto.
 
-A colaboração da [Rosana TSF](https://github.com/RosanaTSF) contribuiu para melhorar o layout do README e exibir as imagens de forma proporcional.
+Por [Rosana TSF](https://github.com/RosanaTSF).
