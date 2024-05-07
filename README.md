@@ -1,6 +1,17 @@
 <div align="center">
-    <img src="blob:https://web.whatsapp.com/2a31043c-503e-42c2-b12f-553ff216ab01" width="200" />
+    <a href="https://www.notion.so/rosanatsf/KawaiiBR-Social-Media-08c8333aa772450f828a9277ece8122e" style="background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;">Social Media KwaiiBR</a>
 </div>
+
 
 ## 🌸 Social Media KawaiiBR 🌸
 
