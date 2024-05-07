@@ -1,37 +1,30 @@
 <div align="center">
-    <img src="./assets/eu.JPEG" width="200" />
-    <img src="./assets/clone.JPEG width="200" />
-    <img src="./assets/funko.JPEG" width="200" />
-    <img src="./assets/fakenatty.JPEG" width="200" />
-    <img src="./assets/fakenatty2.JPEG" width="200" />
-    <img src="./assets/rede.JPEG" width="200" />
-    <img src="./assets/rede2.JPEG" width="200" />
+    <img src="blob:https://web.whatsapp.com/2a31043c-503e-42c2-b12f-553ff216ab01" width="200" />
 </div>
 
-## 📒 Descrição
-O projeto Fake Natty é uma demonstração de como várias tecnologias, incluindo Microsoft Copilot, Microsoft Designer e App 3D Models, podem ser utilizadas em conjunto para criar uma variedade de conteúdos criativos. No projeto, foram exploradas diferentes ferramentas para gerar um personagem de dorama surfista, um Funko Pop baseado em uma descrição pessoal, uma versão em desenho 3D de uma foto real e até mesmo uma rede social, com a ajuda do Copilot para gerar parte da apresentação.
+## 🌸 Social Media KawaiiBR 🌸
 
-## 🤖 Tecnologias Utilizadas
-- Microsoft Copilot
-- Microsoft Designer
-- App 3D Models
-- ChatGPT
+Bem-vindo ao KawaiiBR Podcast, seu novo espaço para conversas autênticas e envolventes sobre tudo relacionado ao anime. Aqui, você encontrará discussões aprofundadas sobre seus animes favoritos, entrevistas com criadores de conteúdo e dicas para expressar sua paixão pelo anime de maneiras criativas. Junte-se a nós enquanto mergulhamos no fascinante mundo do anime e exploramos o que faz desta comunidade um lugar tão especial.
 
-## 🧐 Processo de Criação
-Para o desafio Fake Natty, o processo de criação envolveu várias etapas criativas e a utilização de diferentes tecnologias:
+### Objetivo
+O KawaiiBR Podcast visa criar um espaço inclusivo e envolvente para a comunidade anime, proporcionando discussões aprofundadas, entrevistas com criadores de conteúdo e dicas para expressar a paixão pelo anime de maneiras criativas. Busca-se promover a conexão entre os fãs, permitindo que expressem sua individualidade e encontrem comunidades com interesses semelhantes.
 
-1. **Geração do Personagem de Dorama Surdista:**
-   - Utilização do Microsoft Copilot para gerar um personagem de dorama surfista com base em uma descrição.
+### Ferramentas Usadas
+1. **Microsoft Copilot:** Auxiliou na geração de conteúdo para a apresentação, oferecendo sugestões criativas.
+2. **Microsoft Designer:** Utilizado para criar o logotipo estilizado da KawaiiBR.
+3. **App de Modelos 3D:** Permitiu a criação de avatares de anime personalizados.
+4. **ChatGPT:** Contribuiu para a elaboração de scripts e diálogos para a narração.
 
-2. **Criação do Funko Pop Personalizado:**
-   - Utilização do Microsoft Designer para descrever características pessoais e preferências.
-   - Geração do Funko Pop com base nas informações fornecidas.
+### Funcionalidades
+1. **Perfis Personalizados:** Os usuários podem criar e personalizar avatares de anime, refletindo sua individualidade.
+2. **Integração Social:** Integração perfeita com várias redes sociais, permitindo compartilhar conteúdo de forma fácil.
+3. **Botão Follow:** Facilita a expansão da rede de contatos, permitindo seguir outros usuários com um simples toque.
+4. **Privacidade das Curtidas:** Garante a privacidade dos usuários, mantendo suas curtidas exclusivas e seguras.
+5. **Comunidades e Amigos:** Os usuários podem participar de grupos com interesses comuns e fazer amizades genuínas.
+6. **Música do Momento:** Destaca a trilha sonora da vida do usuário, exibindo a música que está sendo reproduzida no momento.
+7. **Design Acessível:** Layout intuitivo e acolhedor, projetado para ser acessível a todos os usuários.
+8. **Diversidade e Inclusão:** Celebra a diversidade em todas as suas formas, proporcionando um ambiente acolhedor para usuários de diferentes origens e identidades.
 
-3. **Criação do Desenho 3D a partir de uma Foto Real:**
-   - Utilização de um aplicativo de modelos 3D para criar uma versão em desenho 3D de uma foto real.
-
-4. **Desenvolvimento da Rede Social:**
-   - Utilização do Copilot para ajudar na criação de uma rede social.
-   - Utilização de comandos para gerar parte da apresentação do projeto.
+Essas funcionalidades são projetadas para criar uma experiência única e envolvente para a comunidade anime, incentivando a interação, expressão criativa e conexão entre os fãs.
 
 Por [Rosana TSF](https://github.com/RosanaTSF).
