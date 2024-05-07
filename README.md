@@ -9,12 +9,11 @@
   font-size: 16px;
   margin: 4px 2px;
   transition-duration: 0.4s;
-  cursor: pointer;">Social Media KwaiiBR</a>
+  cursor: pointer;"> 🌸 Social Media KawaiiBR 🌸</a>
+    
 </div>
 
-
-## 🌸 Social Media KawaiiBR 🌸
-
+<br>
 Bem-vindo ao KawaiiBR Podcast, seu novo espaço para conversas autênticas e envolventes sobre tudo relacionado ao anime. Aqui, você encontrará discussões aprofundadas sobre seus animes favoritos, entrevistas com criadores de conteúdo e dicas para expressar sua paixão pelo anime de maneiras criativas. Junte-se a nós enquanto mergulhamos no fascinante mundo do anime e exploramos o que faz desta comunidade um lugar tão especial.
 
 ### Objetivo
