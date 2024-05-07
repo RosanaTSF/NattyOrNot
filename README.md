@@ -14,10 +14,7 @@
 </div>
 
 <br>
-Bem-vindo ao KawaiiBR Podcast, seu novo espaço para conversas autênticas e envolventes sobre tudo relacionado ao anime. Aqui, você encontrará discussões aprofundadas sobre seus animes favoritos, entrevistas com criadores de conteúdo e dicas para expressar sua paixão pelo anime de maneiras criativas. Junte-se a nós enquanto mergulhamos no fascinante mundo do anime e exploramos o que faz desta comunidade um lugar tão especial.
-
-### Objetivo
-O KawaiiBR Podcast visa criar um espaço inclusivo e envolvente para a comunidade anime, proporcionando discussões aprofundadas, entrevistas com criadores de conteúdo e dicas para expressar a paixão pelo anime de maneiras criativas. Busca-se promover a conexão entre os fãs, permitindo que expressem sua individualidade e encontrem comunidades com interesses semelhantes.
+O KawaiiBR é uma rede social em que suas fotos se transformam em animes.
 
 ### Ferramentas Usadas
 1. **Microsoft Copilot:** Auxiliou na geração de conteúdo para a apresentação, oferecendo sugestões criativas.
